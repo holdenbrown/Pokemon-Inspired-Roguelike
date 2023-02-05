@@ -1,0 +1,2 @@
+11/20 - Added a struct to store all pokemon information and fixed bugs that stored information wrong.
+11/29 - added encounters and combat along with bag, change pokemon, flee and fight options.
